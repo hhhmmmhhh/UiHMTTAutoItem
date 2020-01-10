@@ -1,0 +1,4 @@
+[
+  "scripts/test02_mp_article.py::TestMpArticle::()::test_mp_article",
+  "scripts/test04_mis_audit.py::TestMisAudit::()::test_article_audit"
+]

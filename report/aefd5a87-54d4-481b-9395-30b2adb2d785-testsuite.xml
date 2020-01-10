@@ -1,0 +1,36 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578650939700" stop="1578651004618">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1578650939700" status="passed" stop="1578650962357">
+      <name>test02_mp_article.TestMpArticle.test_mp_article</name>
+      <attachments>
+        <attachment source="d9d5a610-839c-4776-9c1b-98a1f7d214e7-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="51996dc6-8983-466b-bb7b-9a934d0ead72-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3892-MainThread"/>
+        <label name="host" value="DESKTOP-6LBFQSQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578650964628" status="passed" stop="1578651004618">
+      <name>test04_mis_audit.TestMisAudit.test_article_audit</name>
+      <attachments>
+        <attachment source="123c3f7a-34d1-4e31-aed5-d54bbfd85b2d-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d87c83bb-d000-4abf-9735-e00e3878b152-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3892-MainThread"/>
+        <label name="host" value="DESKTOP-6LBFQSQ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
